@@ -68,7 +68,7 @@ formal writing that it has come to represent.)
 | predraft | [RFD 24 Designation API improvements to facilitate platform update](./rfd/0024/README.md) |
 | draft | [RFD 25 Pluralizing CloudAPI CreateMachine et al](./rfd/0025/README.md) |
 | draft |  [Shared Storage for SDC](./rfd/0026/[RFD 26 RFD 26 NetworkREADME.md) |
-| predraft | [Add web based serial and vnc console](./rfd/0027/README.md) |
+| predraft | [RFD 27 Add web based serial and vnc console](./rfd/0027/README.md) |
 
 
 ## Contents of an RFD
