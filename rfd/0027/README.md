@@ -13,6 +13,7 @@ It can become difficult to work with machines that are virtualized via KVM, or e
 There are two open source projects that would allow users to gain access to the serial and vnc consoles of running machines in adminui.  It would be nice to be able to get to these consoles directly from the virtual machine pages in adminui.
 
 Serial Console - https://github.com/antonylesuisse/qweb or http://anyterm.org
+
 VNC Console - http://kanaka.github.io/noVNC/
 
 ## Requirements
